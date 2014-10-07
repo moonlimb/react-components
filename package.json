@@ -1,0 +1,14 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.1",
+  "description": "React tutorial at django bar camp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moon Limb",
+  "license": "ISC",
+  "dependencies": {
+    "react-tools": "^0.11.2"
+  }
+}

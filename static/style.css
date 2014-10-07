@@ -1,0 +1,9 @@
+.timer {
+  background-color: aquamarine;
+  margin: 10px;
+  padding: 5px;
+}
+
+.static-component {
+    color: indianred;
+}
