@@ -1,14 +1,12 @@
-React Tutorial
-==============
-Simple React Boilerplate to try out examples from:
+(in the command line) to get started.
+=======
+react-components
+================
 
-1. [Facebook React intro examples](http://facebook.github.io/react/index.html)
-2. [Facebook React tutorial](http://facebook.github.io/react/docs/tutorial.html)
+Some React components (in development)
 
-From the react-tutorial directory, run:
+From the react-components directory, run:
 
 ```
 python3 -m http.server 8000
 ```
-
-(in the command line) to get started.
